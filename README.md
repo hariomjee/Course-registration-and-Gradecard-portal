@@ -2,8 +2,9 @@
 
 # How to run project..
   1. First rename Course-registration-and-Gradecard-portal folder to online course registration portal.
-  2. Now import database into phpAdmin.
-  3. Now run xampp and open browser and run file
+  2. Create database as course_registration
+  3. Now import database into phpAdmin.
+  4. Now run xampp and open browser and run file
 
 # Screenshots..
 Index page:
