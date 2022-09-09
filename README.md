@@ -1,10 +1,14 @@
 # Course-registration-and-Gradecard-portal
 
-# How to run project..
-  1. First rename Course-registration-and-Gradecard-portal folder to online course registration portal.
+# Run project in your system.
+   [https://ocrngp.000webhostapp.com]( https://ocrngp.000webhostapp.com)
+# Getting Started..
+  Clone the project first.
+  1. First rename Course-registration-and-Gradecard-portal folder to ____online course registration portal____.
   2. Create database as course_registration
-  3. Now import database into phpAdmin.
-  4. Now run xampp and open browser and run file
+  3. Now import database into phpAdmin. <br>
+    3.1 You can get database into **Database** folder.
+  5. Now run xampp and open browser and run file
 
 # Screenshots..
 Index page:
